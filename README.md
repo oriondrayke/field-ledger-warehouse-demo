@@ -23,4 +23,4 @@ Changes are saved only in the browser's local storage. There is no server, multi
 
 ## Source and provenance
 
-The interface is original HTML, CSS and JavaScript created for this concept. No DRC logos, copyrighted imagery or private data are included. The prototype has no external assets or font dependency.
+The interface, route illustration and Field Ledger mark are original HTML, CSS, JavaScript and SVG created for this concept. No DRC logo, private data or real organisation records are included. The display font is self-hosted Archivo Black under the included SIL Open Font License (`assets/OFL-ArchivoBlack.txt`); the site does not request fonts from an external server. The UI was designed after reviewing the variety in Edward Mathew's Korvia and Vino & Views concept galleries, without copying their layouts.
